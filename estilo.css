@@ -1,0 +1,54 @@
+.fondo {
+    background-color: rgba(235, 134, 204, 0.89);
+}
+.miTexto {
+    font-size: 80px;
+    color: rgb(114, 7, 214)
+}
+
+.Logo {
+ width: 200px;
+ height: 200px;
+
+}
+.Rosita {
+    font-size: 30px;
+    color: brown;
+}
+#principal {
+    font-size: 100px;
+}
+#Titulos
+{
+    border: 2px solid black;
+     width: 65vw;
+     margin: auto;
+     padding: 2em;
+
+}
+.Cards {
+    border: 2px solid white;
+    width:  fit-content;
+    padding: 3em;
+    border-radius: 15%;
+    transition: 1s;
+
+}
+.Cards:hover{
+    background-color: blueviolet;
+}
+
+#CardsContainer {
+    
+    width: 85%;
+    margin: auto;
+    margin-top: 1,5em;
+    border: 2px solid white;
+    border-radius: 5%;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+

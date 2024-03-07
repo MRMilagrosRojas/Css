@@ -1,0 +1,34 @@
+/* reset.css */
+
+/* Box sizing reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Typography reset */
+  body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* List reset */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Links reset */
+  a {
+    text-decoration: none;
+  }
+  
+  /* Reset form elements */
+  input, textarea, button {
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  
+  /* Additional resets or styles can be added based on project requirements */
+  
